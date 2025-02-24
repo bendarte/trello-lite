@@ -1,0 +1,9 @@
+task-management/
+├── frontend/
+│   ├── Dockerfile
+│   └── src/
+├── backend/
+│   ├── Dockerfile
+│   └── src/
+├── docker-compose.yml
+└── .env 
