@@ -4,7 +4,7 @@ A modern, full-stack task management application built with Next.js, FastAPI, an
 
 ![Task Board Screenshot](.github/screenshots/taskboard.png)
 
-## 🌟 Features
+##  Features
 
 - Drag-and-drop task management
 - Real-time status updates
@@ -14,9 +14,7 @@ A modern, full-stack task management application built with Next.js, FastAPI, an
 - Docker support for easy deployment
 - Responsive design
 
-## 🚀 Live Demo
 
-[Live Demo](https://your-demo-url.com) - (Add your deployed version URL when available)
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +34,7 @@ A modern, full-stack task management application built with Next.js, FastAPI, an
   - Docker
   - Docker Compose
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 ### Option 1: Using Docker (Recommended)
 
@@ -105,7 +103,7 @@ If you have Docker installed, this is the easiest way to run the application:
    npm run dev
    ```
 
-## 📝 API Documentation
+##  API Documentation
 
 The API documentation is available at http://localhost:8000/docs when running the backend server. Key endpoints include:
 
@@ -114,7 +112,7 @@ The API documentation is available at http://localhost:8000/docs when running th
 - `PUT /tasks/{task_id}` - Update a task
 - `DELETE /tasks/{task_id}` - Delete a task
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 - [ ] User authentication
 - [ ] Multiple boards
@@ -122,21 +120,15 @@ The API documentation is available at http://localhost:8000/docs when running th
 - [ ] Collaborative features
 - [ ] Mobile app version
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
+- GitHub: [@yourusername](https://github.com/bendarte)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/osman-m-b646aa295)
 
-## 🙏 Acknowledgments
-
-- Thanks to the Next.js, FastAPI, and PostgreSQL communities
-- Inspired by Trello and similar task management tools 
