@@ -1,4 +1,4 @@
-# Task Management Application
+# Trello lite
 
 A modern, full-stack task management application built with Next.js, FastAPI, and PostgreSQL. Features a drag-and-drop interface for managing tasks across different status columns, similar to Trello.
 
@@ -42,8 +42,8 @@ If you have Docker installed, this is the easiest way to run the application:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-app.git
-   cd task-management-app
+   git clone https://github.com/bendarte/trello.lite.git
+   cd trello-lite
    ```
 
 2. Start the application:
