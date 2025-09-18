@@ -128,7 +128,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-Your Name
-- GitHub: [@yourusername](https://github.com/bendarte)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/osman-m-b646aa295)
+Osman M
+- GitHub: [@Github](https://github.com/bendarte)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/osman-m-b646aa295)
 
