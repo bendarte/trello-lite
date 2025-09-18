@@ -128,7 +128,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 👤 Author
 
-Osman M
-- GitHub: [@Github](https://github.com/bendarte)
+  Osman M
+- GitHub: [Github](https://github.com/bendarte)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/osman-m-b646aa295)
 
